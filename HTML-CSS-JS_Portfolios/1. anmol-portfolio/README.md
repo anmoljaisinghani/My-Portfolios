@@ -67,7 +67,7 @@ You only need a web browser to view the website. For development, a code editor 
 
 You can also view a live version of the portfolio here:
 
-[Link to your live portfolio website (e.g., GitHub Pages, Netlify, Vercel)](https://your-live-demo-url.com)
+[Link ](https://anmol-pf.netlify.aop)
 
 ---
 
