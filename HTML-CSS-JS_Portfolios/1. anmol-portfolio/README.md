@@ -90,7 +90,7 @@ This project is open source and available under the **MIT License**. (Consider c
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
 
 * **Email:** anmoljaisinghani7@gmail.com
-* **GitHub:** [Your GitHub Profile](https://github.com/anmoljaisinghani)
+* **GitHub:** [My GitHub Profile](https://github.com/anmoljaisinghani)
 
 ---
 
