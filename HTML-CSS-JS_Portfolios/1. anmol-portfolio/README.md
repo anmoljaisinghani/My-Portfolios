@@ -65,9 +65,7 @@ You only need a web browser to view the website. For development, a code editor 
 
 ### Live Demo
 
-You can also view a live version of the portfolio here:
-
-[Link ](https://anmol-pf.netlify.aop)
+You can also view a live version of the portfolio here: [Link ](https://anmol-pf.netlify.app)
 
 ---
 
